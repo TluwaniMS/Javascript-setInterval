@@ -1,6 +1,6 @@
 # Javascript-setInterval
 
-The `setInterval()` allows us to run a function after a set period of time repeatedly.
+The `setInterval()` method allows us to run a function after a set period of time repeatedly.
 
 ```
 const greet = () => console.log(`I've been instructed to greet you after every 3 seconds.`);
